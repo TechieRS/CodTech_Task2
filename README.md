@@ -58,6 +58,6 @@ Linked List: 20 -> NULL
 This project is open-source and available under the MIT License.
 
 ## Author
-- GitHub: [GitHub]([https://github.com/your-username](https://github.com/TechieRS))
+- GitHub: [GitHub](https://github.com/TechieRS)
 
 Feel free to contribute or report issues!
